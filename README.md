@@ -22,7 +22,7 @@ bug. I publish that part too.
 - [**fantasy-draft-optimizer**](https://github.com/Darson2004/fantasy-draft-optimizer): lookahead
   drafting against a computable opponent model, season and injury Monte Carlo, and a projection
   calibration study. Wins 16.2% of held-out leagues vs a 10% luck baseline (+8.0 SE).
-- [**MFT**](https://github.com/Darson2004/MFT): an early (2025) Mamba state-space model for
+- [**mamba-earnings-intraday**](https://github.com/Darson2004/mamba-earnings-intraday): an early (2025) Mamba state-space model for
   post-earnings intraday trading. It failed, and why it failed is what sent me to order-book data.
 
 ### How I validate
